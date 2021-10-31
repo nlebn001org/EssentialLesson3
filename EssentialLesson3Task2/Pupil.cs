@@ -1,14 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace EssentialLesson3Task2
+﻿namespace EssentialLesson3Task2
 {
     class Pupil
     {
-
         public virtual void Study()
         {
         }
@@ -33,6 +26,5 @@ namespace EssentialLesson3Task2
             Write();
             Relax();
         }
-
     }
 }

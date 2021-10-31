@@ -1,14 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace EssentialLesson3Task2
+﻿namespace EssentialLesson3Task2
 {
     class ClassRoom
     {
-
         public ClassRoom(Pupil pupil1, Pupil pupil2, Pupil pupil3, Pupil pupil4)
         {
             pupil1.StudentInfo();

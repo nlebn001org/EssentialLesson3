@@ -1,14 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace EssentialLesson3Task3
 {
     class Plane : Vehicle
     {
-
         public int Passengers { get; }
         public double Height { get; }
 

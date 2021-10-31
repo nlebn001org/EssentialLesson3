@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace EssentialLesson3Task3
 {
@@ -23,7 +19,5 @@ namespace EssentialLesson3Task3
         {
             Console.WriteLine($"Price is: {Price}\nSpeed is: {Speed}\nYear is: {Year}");
         }
-
-
     }
 }

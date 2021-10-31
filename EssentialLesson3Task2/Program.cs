@@ -4,8 +4,6 @@ namespace EssentialLesson3Task2
 {
     class Program
     {
-
-        
         static Pupil excellentPupil = new ExcelentPupil();
         static Pupil goodPupil = new GoodPupil();
         static Pupil badPupil = new BadPupil();
